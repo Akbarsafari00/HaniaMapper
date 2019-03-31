@@ -16,7 +16,7 @@ HaniaMapper is a simple little library built to solve a deceptively complex prob
 First, [install NuGet](http://docs.nuget.org/docs/start-here/installing-nuget). Then, install [HaniaMapper](https://www.nuget.org/packages/HaniaMapper/) from the package manager console:
 
 ```
-PM> Install-Package HaniaMapper 
+PM> Install-Package Hania.Mapper 
 ```
 
 
