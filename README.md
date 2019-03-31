@@ -1,7 +1,7 @@
-# HaniaMapper
+# Hania.Mapper
 
 [![Build status](https://ci.appveyor.com/api/projects/status/q261l3sbokafmx1o/branch/master?svg=true)](https://www.nuget.org/packages/HaniaMapper/)
-[![NuGet](http://img.shields.io/nuget/v/HaniaMapper.svg)](https://www.nuget.org/packages/HaniaMapper/)
+[![NuGet](http://img.shields.io/nuget/v/Hania.Mapper.svg)](https://www.nuget.org/packages/HaniaMapper/)
 [![Author](https://img.shields.io/badge/Author-Akbar%20Ahmadi%20Saray-brightgreen.svg)](https://www.nuget.org/packages/HaniaMapper/)
 [![Company](https://img.shields.io/badge/Company-Http%3A%2F%2FHaniaGroup.ir-orange.svg)](https://www.nuget.org/packages/HaniaMapper/)
 
